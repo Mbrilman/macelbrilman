@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Macel Brilman!
 
-### 🚀 Senior Hybrid IT Specialist | ☁️ Cloud Architect | 🔐 Security Focused
+### 🚀 ICT Azure / Microsoft 365 Specialist | ☁️ Cloud Architect | 🔐 Security Focused
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macelbrilman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macelbrilman@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-I am a **Senior Hybrid IT Specialist** at **Enstall**, operating in a fully **Azure-based server environment**. With a deep background in the **Microsoft ecosystem**, I specialize in designing secure, modern workplaces and automating complex IT operations.
+I am an **ICT Azure / Microsoft 365 Specialist** at **Enstall**, operating in a full **Microsoft environment**. With a deep background in the **Microsoft ecosystem**, I specialize in designing secure, modern workplaces and automating complex IT operations.
 
 My journey didn't start in the cloud—I have deep experience built from the early years of computing, giving me a grounded understanding of how systems work under the hood, from **Intel 8086** and **MS-DOS** to today's cutting-edge cloud architectures.
 
@@ -55,13 +55,14 @@ As a core member of the **Azure/Microsoft Change Team** at Enstall, I drive the 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ### 📋 Methodologies
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-FF6600?style=for-the-badge&logo=iso&logoColor=white)
 
 ---
 
@@ -79,8 +80,8 @@ My expertise is built on a solid foundation from the early years of computing:
 
 ## 💼 Professional Background
 
-### 🔹 Senior Hybrid IT Specialist @ **Enstall** (Current)
-- Managing a complete **Azure-based server environment** and **Microsoft 365** ecosystem
+### 🔹 ICT Azure / Microsoft 365 Specialist @ **Enstall** (Current)
+- Managing a complete **Microsoft environment** including **Azure** and **Microsoft 365** ecosystem
 - Focusing on the transition to modern cloud architecture and endpoint management
 - Driving innovation in **Modern Workplace** solutions
 
@@ -90,7 +91,7 @@ My expertise is built on a solid foundation from the early years of computing:
 
 ### 🔹 Senior Network & System Administrator @ **Connectworks / Atricom**
 - Played a key role in a **12.5-year transformation** of the organization
-- Spearheaded security efforts including next-gen firewalls, network segmentation, and **ISO 27001** compliance
+- Spearheaded security efforts including next-gen firewalls and network segmentation
 
 ---
 
@@ -129,7 +130,7 @@ $Expertise = @{
     Security             = @("Microsoft Defender", "Conditional Access", "PAW", "Zero Trust")
     Automation           = @("PowerShell", "Graph API", "AI Integration")
     Migrations           = @("Tenant-to-Tenant", "On-Prem to Cloud", "Endpoint Transitions")
-    Methodologies        = @("Agile", "Scrum", "ITIL", "ISO 27001")
+    Methodologies        = @("Agile", "Scrum", "ITIL")
     AI_Tools             = @("Copilot", "Claude", "ChatGPT", "Gemini")
     Legacy_Expertise     = @("MS-DOS", "Windows NT", "Hardware", "Networking Fundamentals")
 }
@@ -154,9 +155,11 @@ $Expertise | Format-Table -AutoSize
 
 ## 💡 Fun Facts
 
-- 🎮 I started my computing journey with **Intel 8086** processors
+- 🎮 Gaming veteran: Played on the **first Pong gaming system**, **Atari**, **Commodore**, **P2000**, **Nintendo**, and **PlayStation**
+- 🖥️ I started my computing journey with **Intel 8086** processors
 - 🔧 I can troubleshoot issues from **MS-DOS** to **modern Azure cloud**
-- 🤖 I integrate **AI assistants** into my daily workflow for enhanced productivity
+- 🤖 I integrate **AI assistants** (Copilot, Claude, ChatGPT, Gemini) into my daily workflow for enhanced productivity
+- 🔌 Hands-on with **micro electronics**: **Raspberry Pi**, **ESP32**, and **home automation** projects
 - 🔐 Passionate about **security** and **zero-trust architectures**
 - 📚 Continuous learner, always exploring the latest in **cloud technology** and **automation**
 
