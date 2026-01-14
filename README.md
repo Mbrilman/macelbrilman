@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-I am an **ICT Azure / Microsoft 365 Specialist** at **Enstall**, operating in a full **Microsoft environment**. With a deep background in the **Microsoft ecosystem**, I specialize in designing secure, modern workplaces and automating complex IT operations.
+I am an **ICT Azure / Microsoft 365 Specialist** at **Enstall**, operating in a full **Microsoft environment**. With a deep background in the **Microsoft ecosystem**.
 
 My journey didn't start in the cloud—I have deep experience built from the early years of computing, giving me a grounded understanding of how systems work under the hood, from **Intel 8086** and **MS-DOS** to today's cutting-edge cloud architectures.
 
@@ -24,7 +24,7 @@ My journey didn't start in the cloud—I have deep experience built from the ear
 
 ## 🔭 What I'm Working On
 
-As a core member of the **Azure/Microsoft Change Team** at Enstall, I drive the implementation of new solutions in structured **Agile sprints**:
+As a core member of the **Azure/Microsoft Change Team**, I drive the implementation of new solutions in structured **Agile sprints**:
 
 🖥️ **Modern Workplace**: Designing and automating device management using **Intune** and **Autopilot** for a seamless user experience
 
