@@ -93,21 +93,6 @@ My expertise is built on a solid foundation from the early years of computing:
 - Played a key role in a **12.5-year transformation** of the organization
 - Spearheaded security efforts including next-gen firewalls and network segmentation
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Macel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbrilman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbrilman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mbrilman&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mbrilman&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
