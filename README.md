@@ -96,16 +96,6 @@ My expertise is built on a solid foundation from the early years of computing:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mbrilman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 🎯 Areas of Expertise
 
 ```powershell
