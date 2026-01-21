@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Macel Brilman!
 
-### 🚀 ICT Azure / Microsoft 365 Specialist | ☁️ Cloud Architect | 🔐 Security Focused
+### 🚀 ICT Azure / Microsoft 365 Specialist | ☁️ Cloud  | 🔐 Security Focused
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macelbrilman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macelbrilman@gmail.com)
