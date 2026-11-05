@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Macel Brilman!
 
-### 🚀 ICT Azure / Microsoft 365 Specialist | ☁️ Cloud  | 🔐 Security Focused
+### 🚀 Network & Security Engineer | ☁️ Azure / Microsoft 365 | 🤖 AI & Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macelbrilman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macelbrilman@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-I am an **ICT Azure / Microsoft 365 Specialist** at **Enstall**, operating in a full **Microsoft environment**. With a deep background in the **Microsoft ecosystem**.
+I am a **Network & Security Engineer** with a deep background in the **Microsoft ecosystem**, including Azure and Microsoft 365.
 
 My journey didn't start in the cloud—I have deep experience built from the early years of computing, giving me a grounded understanding of how systems work under the hood, from **Intel 8086** and **MS-DOS** to today's cutting-edge cloud architectures.
 
@@ -78,9 +78,25 @@ My expertise is built on a solid foundation from the early years of computing:
 
 ---
 
+## 🤖 AI & Projects
+
+Alongside my work I run a home lab where a small team of AI agents helps me build and operate real systems. Two public projects came out of it:
+
+| Project | What it is |
+|---|---|
+| [Aion, the time globe](https://github.com/Mbrilman/aion-time-globe) | An evidence-graded atlas of history on a 3D globe, built from public data. Open to people who want to help with layers, ideas and data sources. [Live globe](https://aion.eanna.house/site/) |
+| [Olympus Pantheon](https://github.com/Mbrilman/olympus-pantheon) | How the agent team works: shared memory, review of every change, monitoring, and the rules that keep it honest. |
+
+I use AI as a working partner, with review and measurement on everything it produces.
+
+---
+
 ## 💼 Professional Background
 
-### 🔹 ICT Azure / Microsoft 365 Specialist @ **Enstall** (Current)
+### 🔹 Network & Security Engineer @ **TKF** (Current)
+- Network and security engineering
+
+### 🔹 ICT Azure / Microsoft 365 Specialist @ **Enstall**
 - Managing a complete **Microsoft environment** including **Azure** and **Microsoft 365** ecosystem
 - Focusing on the transition to modern cloud architecture and endpoint management
 - Driving innovation in **Modern Workplace** solutions
